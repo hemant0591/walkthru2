@@ -1,2 +1,5 @@
 # walkthru2
-Sample repo for walk through 2
+
+## Introduction
+
+This is a sample repo for walk through 2
